@@ -1,0 +1,10 @@
+# OS X
+.DS_Store
+
+# Unity
+Temp
+Library
+
+# MonoDevelop
+*.unityproj
+*.pidb

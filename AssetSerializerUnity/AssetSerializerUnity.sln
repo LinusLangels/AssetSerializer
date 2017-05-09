@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CD7F0522-5743-2114-A1A3-D909E3523DDB}") = "AssetSerializerUnity", "Assembly-CSharp.csproj", "{F3F792BB-54F6-6C19-E192-6FF9B4E5ADC8}"
+EndProject
+Project("{CD7F0522-5743-2114-A1A3-D909E3523DDB}") = "AssetSerializerUnity", "Assembly-CSharp-Editor.csproj", "{CAB14D87-3C44-D950-5B55-13424050D86A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3F792BB-54F6-6C19-E192-6FF9B4E5ADC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F792BB-54F6-6C19-E192-6FF9B4E5ADC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F792BB-54F6-6C19-E192-6FF9B4E5ADC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F792BB-54F6-6C19-E192-6FF9B4E5ADC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB14D87-3C44-D950-5B55-13424050D86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB14D87-3C44-D950-5B55-13424050D86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB14D87-3C44-D950-5B55-13424050D86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB14D87-3C44-D950-5B55-13424050D86A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
