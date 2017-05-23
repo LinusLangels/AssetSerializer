@@ -115,7 +115,7 @@ namespace PCFFileFormat
 			int height = texture.height;
 			ASTCCompressionQuality textureQuality = (ASTCCompressionQuality)quality;
 
-			CompressTextureToFile(filePath, pixelByteData, height, width, textureQuality.ToString(), textureRate);
+		    CompressTextureToFile(filePath, pixelByteData, width, height, textureQuality.ToString(), textureRate);
 			#endif
 	    }
 	}
